@@ -1,4 +1,4 @@
 //javascript code
-for(var i = 1; i < 21; i += 1) {
+for(var i = 20; i>0; i--) {
     console.log(i);
 }
